@@ -1,1 +1,0 @@
-C:\Sab\Official\JEMS\Applications\source\Utils\JHG.Utils.InterfaceGenerator\JHH.Utils.InterfaceGenerator\bin\Debug\InterfaceGenerator.exe.config

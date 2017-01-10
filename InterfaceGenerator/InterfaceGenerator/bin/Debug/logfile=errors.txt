@@ -1,4 +1,0 @@
-Project "JHEDI.Migrations.sln" (Build target(s)):
-	Project "JHEDI.Migrations.csproj" (default targets):
-	Done building project "JHEDI.Migrations.csproj".
-Done building project "JHEDI.Migrations.sln".
