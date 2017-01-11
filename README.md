@@ -10,6 +10,7 @@ The tool allows you to select the solution and displays the list of assemblies, 
 Optionally you can link with TFS source control as well.  It uses your windows authentication and your working folder.
 After you extract, the interface files are added to the project by default.
 
+I have not written any test cases for this.
 
 This tool is still in early stages, the known issues at this point are as follows
 
