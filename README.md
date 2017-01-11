@@ -1,6 +1,9 @@
 # InterfaceGenerator
 
-This tool was created using VS2015 with .net framework 4.6.2
+This tool was created using VS2015 with .net framework 4.6.2.  I have also used CheckboxComboBox from this path.
+
+    https://www.codeproject.com/Articles/21085/CheckBox-ComboBox-Extending-the-ComboBox-Class-and
+
 
 This tool will help you to extract interfaces for any of the classes found in your VS solution.  This will be useful if you want to migrate your existing solution to Interface style programming.
 The tool allows you to select the solution and displays the list of assemblies, namespaces, classes and interfaces associated with it.
